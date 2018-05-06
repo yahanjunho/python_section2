@@ -8,3 +8,5 @@ for i in range(10000):
         just_list.append(i)
         just_list.pop()
 print(time.clock() - start_time, "seconds")
+
+print("commit test")
